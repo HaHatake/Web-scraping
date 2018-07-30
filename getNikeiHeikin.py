@@ -4,8 +4,6 @@ from bs4 import BeautifulSoup
 
 #Thank you for this site!
 #https://qiita.com/Azunyan1111/items/9b3d16428d2bcc7c9406
-
-
 # アクセスするURL
 url = "http://www.nikkei.com/markets/kabu/"
 
