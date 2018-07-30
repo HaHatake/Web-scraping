@@ -1,14 +1,15 @@
-#Thank you for this site!
-#https://qiita.com/Azunyan1111/items/9b3d16428d2bcc7c9406
-
 # coding: UTF-8
 import urllib2
 from bs4 import BeautifulSoup
 
+#Thank you for this site!
+#https://qiita.com/Azunyan1111/items/9b3d16428d2bcc7c9406
+
+
 # アクセスするURL
 url = "http://www.nikkei.com/markets/kabu/"
 
-# URLにアクセスする htmlが帰ってくる → <html><head><title>経済、株価、ビジネス、政治のニュース:日経電子版</title></head><body....
+# URLにアクセスする htmlが帰ってくる
 html = urllib2.urlopen(url)
 
 # htmlをBeautifulSoupで扱う
