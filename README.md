@@ -1,5 +1,5 @@
 # Web-scraping
-Ubuntu18 setup ando web scraping sample code
+This scripts excute Ubuntu18 setup and web scraping sample code
 
 
 # first get script  
