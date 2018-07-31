@@ -8,5 +8,5 @@ curl -LO https://github.com/HaHatake/Web-scraping/blob/master/beautifulsoup4setu
 # setup beautifulsoup4
 sudo bash beautifulsoup4setup.sh  
 
-#Plese change code you want to scraping page
+# Plese change code you want to scraping page
 sudo vi getNikeiHeikin.py
