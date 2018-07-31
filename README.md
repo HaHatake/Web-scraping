@@ -9,4 +9,9 @@ curl -LO https://github.com/HaHatake/Web-scraping/blob/master/beautifulsoup4setu
 sudo bash beautifulsoup4setup.sh  
 
 # Plese change code you want to scraping page
-sudo vi getNikeiHeikin.py
+sudo vi getNikeiHeikin.py    
+
+# Tips
+When you don't have "curl"command , you tipe this script  
+apt-get -qq update  
+apt-get -qq -y install curl  
