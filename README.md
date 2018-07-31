@@ -13,8 +13,8 @@ sudo vi getNikeiHeikin.py
 
 # Tips
 When you don't have "curl"command , you tipe this script  
-sudo apt update  
-sudo apt -y install curl  
+apt update  
+apt -y install curl  
   
   
 Wehn you use Python 2. , you edit code.
