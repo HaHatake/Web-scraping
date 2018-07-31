@@ -38,4 +38,4 @@ for tag in span:
         pass
 
 # 摘出した日経平均株価を出力します。
-print (nikkei_heikin)
+print nikkei_heikin
