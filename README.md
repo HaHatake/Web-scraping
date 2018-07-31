@@ -21,5 +21,5 @@ Wehn you use Python 2. , you edit code.
 Example
 
 sudo vi getNikeiHeikin.py  
-  befor : print nikkei_heikin
-  after : print (nikkei_heikin)
+  befor : print nikkei_heikin  
+  after : print (nikkei_heikin)  
