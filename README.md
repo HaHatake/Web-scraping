@@ -1,8 +1,8 @@
 # Introduction
-This scripts excute Ubuntu18 setup and web scraping sample code
-Plese install curl tool.
+This scripts excute Ubuntu18 setup and web scraping sample code  
+Plese install curl tool.  
 apt update  
-apt -y install curl 
+apt -y install curl  
 
 # first get script  
 curl -LO https://raw.githubusercontent.com/HaHatake/Web-scraping/master/beautifulsoup4setup.sh
